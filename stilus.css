@@ -1,0 +1,31 @@
+body{
+    background-image: url(kepek/VdTaNW.jpg);
+}
+
+main{
+    max-width: 1000px;
+    color: white;
+    margin:auto;
+    font-family: 'Flamenco', cursive;
+}
+
+h2{
+    font-family: 'Great Vibes', cursive;
+    padding: 20px;
+}
+
+form{
+    background-color: rgba(0,0,0, 0.4);
+    padding: 10px;
+    border-radius: 9px;
+    margin: 15px;
+}
+
+.feltet{
+    padding-left: 20px;
+    padding-bottom: 6px;
+}
+
+.btn btn-primary{
+    padding: 10px;
+}
